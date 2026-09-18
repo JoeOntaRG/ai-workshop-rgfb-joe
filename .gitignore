@@ -5,3 +5,4 @@ outputs/
 soal-day1-day2.csv
 .DS_Store
 .env*
+.vercel
