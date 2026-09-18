@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+@layer base {
+  html, body {
+    margin: 0;
+    background-color: #FAFAFA;
+  }
+  body {
+    font-family: var(--font-sans);
+    color: var(--color-gray-900);
+  }
+
+  /* Desktop: lock viewport for presentation. Mobile: allow scroll. */
+  @media (min-width: 768px) {
+    html, body {
+      overflow: hidden;
+    }
+  }
+  @media (max-width: 767px) {
+    html, body {
+      overflow-x: hidden;
+      overflow-y: auto;
+    }
+  }
+}
+
+/* Force md: Tailwind utilities to apply unconditionally inside mobile slide
+   wrappers — the slide content was designed for a desktop viewport, but we
+   render it scaled at 1280px inside a mobile (narrow) viewport. Without these
+   overrides, md:flex-row, md:grid-cols-2, md:text-7xl etc. would not activate
+   and slides would collapse to stacked / tiny-text mobile layouts. */
+.mobile-slide-wrapper .md\:flex-row { flex-direction: row; }
+.mobile-slide-wrapper .md\:gap-5 { gap: 1.25rem; }
+.mobile-slide-wrapper .md\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.mobile-slide-wrapper .md\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.mobile-slide-wrapper .md\:text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+.mobile-slide-wrapper .md\:text-2xl { font-size: 1.5rem; line-height: 2rem; }
+.mobile-slide-wrapper .md\:text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+.mobile-slide-wrapper .md\:text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+.mobile-slide-wrapper .md\:text-5xl { font-size: 3rem; line-height: 1; }
+.mobile-slide-wrapper .md\:text-6xl { font-size: 3.75rem; line-height: 1; }
+.mobile-slide-wrapper .md\:text-7xl { font-size: 4.5rem; line-height: 1; }
+.mobile-slide-wrapper .md\:text-\[5rem\] { font-size: 5rem; line-height: 1; }
+.mobile-slide-wrapper .md\:text-\[7rem\] { font-size: 7rem; line-height: 1; }
+.mobile-slide-wrapper .md\:w-\[40\%\] { width: 40%; }
+.mobile-slide-wrapper .md\:w-\[400px\] { width: 400px; }
+.mobile-slide-wrapper .md\:w-\[42\%\] { width: 42%; }
+.mobile-slide-wrapper .md\:w-\[44\%\] { width: 44%; }
+.mobile-slide-wrapper .md\:w-\[45\%\] { width: 45%; }
+.mobile-slide-wrapper .md\:w-\[48\%\] { width: 48%; }
+.mobile-slide-wrapper .md\:w-\[52\%\] { width: 52%; }
+.mobile-slide-wrapper .md\:w-\[55\%\] { width: 55%; }
+.mobile-slide-wrapper .md\:w-\[56\%\] { width: 56%; }
+.mobile-slide-wrapper .md\:w-\[58\%\] { width: 58%; }
+.mobile-slide-wrapper .md\:w-\[60\%\] { width: 60%; }
+
+.custom-scrollbar::-webkit-scrollbar { width: 6px; }
+.custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+.custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+.custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-in { animation: fadeIn 0.5s ease-out forwards; }
+
+@keyframes pulseSubtle {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 1; }
+}
+.pulse-subtle { animation: pulseSubtle 2.4s ease-in-out infinite; }

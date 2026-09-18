@@ -1,0 +1,11 @@
+Ticket ID,Tanggal,Produk,Channel,Issue,Prioritas,Status,Resolusi
+T-1001,2026-05-02,Dummy Personal Care A,WhatsApp,Konsumen bingung urutan penggunaan,Medium,Closed,Dikirimkan panduan penggunaan sesuai product brief
+T-1002,2026-05-03,Dummy Household Care B,Email,Ukuran produk tidak sesuai ekspektasi,High,Closed,Dijelaskan pilihan ukuran dan proses retur
+T-1003,2026-05-04,Dummy Personal Care A,Phone,User lupa cara membaca petunjuk label,Low,Closed,Dikirimkan foto label dan link FAQ resmi
+T-1004,2026-05-05,Dummy Beauty Care C,WhatsApp,Pertanyaan tentang varian yang cocok,Medium,Closed,Digali kebutuhan dan diarahkan ke product guide
+T-1005,2026-05-06,Dummy Household Care B,WhatsApp,Kemasan rusak saat diterima,Medium,Open,Menunggu foto kemasan dan bukti pembelian
+T-1006,2026-05-07,Dummy Personal Care D,Email,Informasi promo tidak terbaca,High,Escalated,Diteruskan ke tim commercial dengan bukti campaign
+T-1007,2026-05-08,Dummy Beauty Care C,WhatsApp,Produk diterima dengan label terkelupas,High,Escalated,Diminta foto produk dan invoice untuk pemeriksaan
+T-1008,2026-05-09,Dummy Beauty Care F,Phone,Stok tidak tersedia di toko terdekat,Low,Closed,Diberikan informasi kanal pembelian resmi
+T-1009,2026-05-10,Dummy Household Care E,Email,Tidak menemukan FAQ penggunaan,Medium,Closed,Diarahkan ke knowledge base customer care
+T-1010,2026-05-11,Dummy Personal Care A,WhatsApp,Konsumen menanyakan klaim manfaat,Medium,Closed,Dijelaskan hanya klaim yang tercantum di product brief

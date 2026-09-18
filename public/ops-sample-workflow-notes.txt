@@ -1,0 +1,16 @@
+CATATAN WORKFLOW: Penanganan Return Barang dari Reseller
+(disalin dari WhatsApp grup Ops, belum tersusun)
+
+- Reseller chat admin via WA bilang ada barang rusak atau salah kirim
+- Admin minta foto barang + nomor invoice ke reseller
+- Cek invoice di sistem, kalau dalam 14 hari masih bisa di-return
+- Admin forward ke tim QC, attach foto + invoice
+- QC kasih verdict: refund full, refund partial, replace, atau tolak
+- Kalau refund full: admin koordinasi sama tim finance, pencairan max 3 hari kerja via transfer bank
+- Kalau replace: gudang siapkan barang, kirim melalui kurir yang disetujui, dan catat status pengiriman.
+- Kalau partial: admin diskusi sama reseller dulu untuk sepakati nominal
+- Kalau tolak: admin balas reseller dengan alasan tertulis + foto bukti
+- Semua kasus wajib di-log di Google Sheet "Return Log Q2 2026"
+- Kasus nominal di atas Rp 5 juta wajib approval Manager Ops sebelum diproses
+- Kalau reseller tidak puas dengan keputusan, naik ke level supervisor dalam 2 hari kerja
+- Target SLA: respons pertama < 2 jam kerja, resolusi < 5 hari kerja

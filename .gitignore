@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.codex-tmp-quiz/
+outputs/
+soal-day1-day2.csv
+.DS_Store
+.env*

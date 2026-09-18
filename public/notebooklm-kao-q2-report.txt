@@ -1,0 +1,54 @@
+KAO Indonesia Q2 2026 BUSINESS REVIEW - DUMMY SOURCE
+
+Dokumen ini adalah data dummy untuk latihan NotebookLM. Angka dan narasi tidak merepresentasikan data aktual perusahaan.
+
+1. Executive summary
+Q2 2026 menunjukkan pertumbuhan revenue sebesar 18% dibanding Q1. Pertumbuhan terutama datang dari marketplace dan modern trade. Namun gross margin turun 2.1 poin karena promo marketplace dan kenaikan biaya logistik.
+
+2. Revenue by channel
+- Marketplace: Rp 4.8 miliar, naik 31% QoQ. Kategori terkuat adalah personal care dan beauty care.
+- Modern trade: Rp 3.9 miliar, naik 12% QoQ. Kategori terkuat adalah household care.
+- General trade: Rp 1.4 miliar, turun 6% QoQ karena dua program aktivasi tertunda ke Q3.
+- Total revenue Q2: Rp 10.1 miliar.
+
+3. Category performance
+- Personal care mencatat 1.850 unit terjual dan menjadi kategori dengan volume tertinggi.
+- Beauty care mencatat margin terbaik pada periode ini.
+- Household care tumbuh 24% QoQ, terutama pada marketplace dan modern trade.
+- Kategori kebutuhan sehari-hari bergerak stabil, tetapi membutuhkan bundling agar kontribusinya naik.
+
+4. Margin notes
+Gross margin Q2 turun dari 28.4% menjadi 26.3%. Penyebab utama:
+- Promo marketplace yang terlalu agresif pada minggu kampanye.
+- Ongkos kirim dan biaya fulfilment meningkat 14%.
+- Mix penjualan bergeser ke produk entry-level dengan margin lebih rendah.
+
+5. Customer and support signals
+Jumlah customer inquiry naik dari 420 di Q1 menjadi 570 di Q2.
+Tiga issue paling sering:
+- Cara penggunaan dan urutan pemakaian produk.
+- Informasi ukuran, varian, dan ketersediaan.
+- Pertanyaan promosi dan dokumen klaim.
+Rata-rata first response time membaik dari 5.2 jam menjadi 3.1 jam, tetapi target internal masih 2 jam.
+
+6. Partner feedback
+Partner meminta materi yang lebih sederhana untuk menjelaskan perbedaan manfaat dan target penggunaan tiap kategori. Tim sales juga meminta comparison sheet satu halaman untuk beberapa SKU prioritas.
+
+7. Operational risks
+- Stok dua SKU dengan demand tinggi diperkirakan hanya cukup untuk 4 minggu jika demand Q2 berlanjut.
+- Salah satu kategori prioritas memiliki lead time 8 minggu.
+- Tim support belum punya FAQ standar untuk pertanyaan penggunaan yang berulang.
+- Pipeline general trade Q3 bergantung pada dua program aktivasi yang tertunda.
+
+8. Q3 priorities
+- Uji bundle produk personal care dan household care untuk segmen keluarga muda.
+- Buat FAQ penggunaan dan video singkat untuk mengurangi inquiry dasar.
+- Jalankan partner enablement pack dengan comparison sheet dan objection handling.
+- Review promo marketplace agar revenue tumbuh tanpa menekan margin terlalu besar.
+- Siapkan reorder untuk SKU dengan demand tinggi setelah validasi forecast.
+
+9. Decisions needed
+- Apakah promo marketplace Q3 tetap agresif atau difokuskan ke bundle dengan margin lebih sehat?
+- Apakah stok SKU dengan demand tinggi perlu dipercepat sebelum campaign berikutnya?
+- Apakah support perlu membuat self-service knowledge base sebelum akhir Juni?
+- Apakah general trade perlu recovery plan untuk dua program yang tertunda?

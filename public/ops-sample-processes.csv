@@ -1,0 +1,11 @@
+Proses,Frekuensi per bulan,Durasi per kasus (menit),Status saat ini
+Generate invoice ke reseller,80,30,Manual di Excel
+Kirim follow-up email trial,200,15,Manual via Gmail
+Approval cuti karyawan,40,20,Approval di WhatsApp
+Update stok harian ke marketplace,30,45,Copy-paste ke Tokopedia & Shopee
+Rekap penjualan mingguan,4,180,Pivot Excel manual
+Reply email pertanyaan spesifikasi,150,10,Manual via Gmail
+Buat laporan bulanan ke management,1,360,Compile dari 5 spreadsheet
+Approval expense >5 juta,20,30,Approval lewat email + tanda tangan
+Onboarding distributor baru,5,240,Email + telepon manual
+Cek status pengiriman ke reseller,60,8,Login JNE/SiCepat satu per satu

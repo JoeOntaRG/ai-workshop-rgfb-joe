@@ -1,0 +1,30 @@
+KAO Indonesia PRODUCT FAQ - DUMMY TRAINING SOURCE
+
+Produk contoh:
+- Dummy personal care product untuk kebutuhan sehari-hari.
+- Dummy household care product untuk kebutuhan rumah tangga.
+
+FAQ:
+1. Apa perbedaan kategori personal care dan household care?
+Personal care berfokus pada kebutuhan perawatan individu. Household care berfokus pada kebutuhan perawatan rumah. Detail manfaat dan penggunaan harus merujuk pada product brief masing-masing SKU.
+
+2. Bagaimana memilih varian yang sesuai?
+Mulai dari kebutuhan konsumen, kebiasaan penggunaan, ukuran, dan informasi pada label. Jangan menyimpulkan kecocokan tanpa data yang cukup.
+
+3. Apa langkah penggunaan awal?
+Baca label dan petunjuk penggunaan, ikuti urutan yang disarankan, dan perhatikan peringatan yang tercantum pada kemasan.
+
+4. Apa penyebab konsumen merasa manfaatnya belum sesuai harapan?
+Kemungkinan penyebab perlu ditelusuri dari cara penggunaan, frekuensi, ekspektasi, kondisi produk, atau konteks pemakaian. Jangan membuat diagnosis atau klaim tanpa sumber.
+
+5. Bagaimana cara menyimpan produk?
+Ikuti petunjuk penyimpanan pada kemasan. Jika informasi tidak tersedia, tandai sebagai pertanyaan untuk customer care.
+
+6. Apakah ada informasi keamanan?
+Gunakan hanya peringatan dan petunjuk yang tercantum pada label atau product brief. Jangan menambahkan klaim keamanan baru.
+
+7. Apa yang perlu dikirim reseller saat menyampaikan keluhan?
+Bukti pembelian, nama atau kode produk, foto/video bila relevan, dan penjelasan singkat gejala atau masalah.
+
+8. Kapan perlu eskalasi ke customer care?
+Eskalasi jika keluhan serius, informasi pada sumber tidak cukup, ada dugaan produk rusak, atau konsumen meminta penjelasan yang tidak tercantum di product brief.
